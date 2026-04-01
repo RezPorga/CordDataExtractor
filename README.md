@@ -31,6 +31,7 @@ Key Highlights:
  * Responsive UI: A modern Next.js dashboard for image uploads and interactive JSON visualization.
 
 **Project Structure**
+
 	CordDataExtractor/
 	├── backend/                # FastAPI Application
 	│   ├── app/
