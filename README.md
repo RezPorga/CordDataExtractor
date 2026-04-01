@@ -9,7 +9,6 @@ CordDataExtractor is a full-stack AI application that transforms unstructured re
  * Model: LayoutLMv3-Base (Fine-tuned on CORD dataset)
  * Backend: FastAPI (Python)
  * Frontend: Next.js (TypeScript/Tailwind CSS)
- * OCR Engine: Tesseract OCR
  * ML Libraries: Hugging Face Transformers, PyTorch, PIL
 
 
